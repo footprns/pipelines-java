@@ -1,4 +1,4 @@
-
+[![Build Status](https://clt-fe360e0e-331e-44b5-9165-ac125d993dd1.visualstudio.com/saltstack/_apis/build/status/footprns.pipelines-java?branchName=master)](https://clt-fe360e0e-331e-44b5-9165-ac125d993dd1.visualstudio.com/saltstack/_build/latest?definitionId=19&branchName=master)
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
